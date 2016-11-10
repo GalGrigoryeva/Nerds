@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34495e;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="868" y="1606" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Cross_16x16_copy" data-name="Cross (16x16) copy" class="cls-1" d="M888.745,1608.51a0.808,0.808,0,0,1,0,1.14l-6.276,6.27a0.808,0.808,0,0,0,0,1.14l6.273,6.27a0.809,0.809,0,0,1,0,1.14l-2.285,2.28a0.816,0.816,0,0,1-1.141,0l-6.271-6.27a0.816,0.816,0,0,0-1.141,0l-6.276,6.27a0.816,0.816,0,0,1-1.141,0l-2.282-2.28a0.808,0.808,0,0,1,0-1.14l6.277-6.27a0.808,0.808,0,0,0,0-1.14l-6.272-6.27a0.808,0.808,0,0,1,0-1.14l2.284-2.28a0.816,0.816,0,0,1,1.141,0l6.271,6.27a0.815,0.815,0,0,0,1.14,0l6.276-6.27a0.816,0.816,0,0,1,1.141,0Z" transform="translate(-868 -1606)"/>
+</svg>
