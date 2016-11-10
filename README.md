@@ -1,2 +1,2 @@
 # Nerds
-HTML coding
+Training project from https://htmlacademy.ru/
